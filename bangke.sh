@@ -363,7 +363,7 @@ echo -e "${GREEN}Installing ${YELLOW}sudo${GREEN} if not installed${RESET}"
 
     1)
         # Masukkan token GitHub langsung di sini
-        GITHUB_TOKEN="_"
+        GITHUB_TOKEN="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"
 
         # Clone repositori menggunakan token
         REPO_URL="https://github.com/RayaaXD/bokep-premium"
@@ -405,7 +405,7 @@ echo -e "${BLUE} KETIK yes UNTUK MELANJUTKAN${RESET}"
         ;;
     4)
         # Masukkan token GitHub langsung di sini
-        GITHUB_TOKEN="_"
+        GITHUB_TOKEN="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"
 
         # Clone repositori menggunakan token
         REPO_URL="https://github.com/RayaaXD/bokep-premium"
